@@ -1,0 +1,1 @@
+web: panel serve --address="0.0.0.0" --port=$PORT lyn.ipynb --allow-websocket-origin=lyn-app.herokuapp.com
